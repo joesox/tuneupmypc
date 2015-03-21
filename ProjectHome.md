@@ -1,0 +1,1 @@
+All-in-one application for end users to help them clean their PC of malware and unused files.  Customizable with a ini file.
